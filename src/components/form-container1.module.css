@@ -1,0 +1,67 @@
+.image27Icon,
+.image28Icon {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  mix-blend-mode: luminosity;
+}
+.image28Icon {
+  top: 27px;
+  left: 207px;
+  width: 172.9px;
+  height: 110px;
+}
+.groupChild {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  box-shadow: 0 100px 80px rgba(0, 0, 0, 0.02),
+    0 64.8px 46.85px rgba(0, 0, 0, 0.02), 0 38.5px 25.48px rgba(0, 0, 0, 0.01),
+    0 20px 13px rgba(0, 0, 0, 0.01), 0 8.1px 6.52px rgba(0, 0, 0, 0.01),
+    0 1.9px 3.15px transparent;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 241px;
+  height: 86px;
+}
+.image29Icon,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  height: 162px;
+}
+.image29Icon {
+  left: 40px;
+  width: 162px;
+  object-fit: cover;
+}
+.rectangleParent {
+  left: 430px;
+  width: 241px;
+}
+.image30Icon,
+.image31Icon {
+  position: absolute;
+  top: 67px;
+  left: 718px;
+  width: 162px;
+  height: 32px;
+  object-fit: cover;
+  mix-blend-mode: luminosity;
+}
+.image31Icon {
+  top: 71px;
+  left: 979px;
+  width: 94px;
+  height: 21px;
+}
+.logos {
+  position: absolute;
+  top: 3561px;
+  left: 186px;
+  width: 1073px;
+  height: 162px;
+}

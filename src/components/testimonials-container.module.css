@@ -1,0 +1,145 @@
+.subheading {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.whatPeopleSay {
+  margin: 0;
+}
+.heading {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  font-size: var(--font-size-31xl);
+  text-transform: capitalize;
+  font-family: var(--font-volkhov);
+  color: var(--rd);
+}
+.groupChild,
+.testimonialsSectionChild {
+  position: absolute;
+  top: 256px;
+  left: 0;
+  width: 87px;
+  height: 12px;
+}
+.groupChild {
+  top: 0;
+  box-shadow: 0 100px 80px rgba(0, 0, 0, 0.02),
+    0 64.8px 46.85px rgba(0, 0, 0, 0.02), 0 38.5px 25.48px rgba(0, 0, 0, 0.01),
+    0 20px 13px rgba(0, 0, 0, 0.01), 0 8.1px 6.52px rgba(0, 0, 0, 0.01),
+    0 1.9px 3.15px transparent;
+  border-radius: var(--br-3xs);
+  border: 2px solid var(--border-color);
+  box-sizing: border-box;
+  width: 506px;
+  height: 236px;
+}
+.onTheWindows {
+  position: absolute;
+  top: 16px;
+  left: 34px;
+  line-height: 32px;
+  font-family: var(--font-open-sans);
+  color: var(--color-slategray-100);
+  display: inline-block;
+  width: 402px;
+}
+.ceoOfRed,
+.chrisThomas {
+  position: absolute;
+  top: 156px;
+  left: 34px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.ceoOfRed {
+  top: 189px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.groupItem,
+.rectangleParent {
+  position: absolute;
+  top: 124px;
+  left: 87px;
+  width: 502px;
+  height: 232px;
+}
+.groupItem {
+  top: 34px;
+  left: 37px;
+  box-shadow: 0 100px 80px rgba(0, 0, 0, 0.02),
+    0 64.8px 46.85px rgba(0, 0, 0, 0.02), 0 38.5px 25.48px rgba(0, 0, 0, 0.01),
+    0 20px 13px rgba(0, 0, 0, 0.01), 0 8.1px 6.52px rgba(0, 0, 0, 0.01),
+    0 1.9px 3.15px transparent;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 504px;
+  height: 245px;
+}
+.testimonail {
+  position: absolute;
+  top: 62px;
+  left: 71px;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  width: 402px;
+}
+.imageIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 68px;
+  height: 68px;
+  object-fit: cover;
+}
+.lahorePakistan,
+.mikeTaylor {
+  position: absolute;
+  top: 192px;
+  left: 71px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.lahorePakistan {
+  top: 224px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.paginationIcon,
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 541px;
+  height: 279px;
+}
+.paginationIcon {
+  top: 140.5px;
+  left: 655px;
+  width: 14px;
+  height: 71.5px;
+}
+.groupParent,
+.testimonialsSection {
+  position: absolute;
+  top: 0;
+  left: 496px;
+  width: 669px;
+  height: 356px;
+  font-size: var(--font-size-base);
+}
+.testimonialsSection {
+  top: 3109px;
+  left: 186px;
+  width: 1165px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--text-clr);
+  font-family: var(--font-poppins);
+}

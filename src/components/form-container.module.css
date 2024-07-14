@@ -1,0 +1,74 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-smi);
+  background-color: var(--color);
+  width: 47px;
+  height: 48px;
+}
+.selection1Icon {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+}
+.rectangleParent {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 47px;
+  height: 48px;
+}
+.chooseDestination {
+  position: absolute;
+  top: 0;
+  left: 68px;
+  line-height: 124.5%;
+}
+.loremIpsumDolor {
+  margin: 0;
+}
+.loremIpsumDolorContainer {
+  position: absolute;
+  top: 24px;
+  left: 68px;
+  line-height: 124.5%;
+}
+.value {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 395px;
+  height: 64px;
+}
+.loremIpsumDolorContainer1 {
+  position: absolute;
+  top: 25px;
+  left: 68px;
+  line-height: 124.5%;
+}
+.value1,
+.value2,
+.values {
+  position: absolute;
+  top: 224px;
+  left: 0;
+  width: 395px;
+  height: 65px;
+}
+.value2,
+.values {
+  top: 112px;
+  height: 64px;
+}
+.values {
+  top: 203px;
+  height: 289px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--text-clr);
+  font-family: var(--font-poppins);
+}

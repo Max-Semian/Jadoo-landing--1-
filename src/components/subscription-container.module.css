@@ -1,0 +1,214 @@
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 140px;
+  left: 0;
+}
+.div1,
+.div2 {
+  top: 105px;
+  left: 35px;
+}
+.div2 {
+  top: 0;
+  left: 70px;
+}
+.div3 {
+  top: 35px;
+}
+.div3,
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  left: 70px;
+}
+.div4 {
+  top: 70px;
+  color: var(--nd);
+}
+.div5,
+.div6 {
+  top: 105px;
+}
+.div6 {
+  top: 140px;
+}
+.div10,
+.div11,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 0;
+  left: 105px;
+}
+.div10,
+.div11,
+.div8,
+.div9 {
+  top: 35px;
+}
+.div10,
+.div11,
+.div9 {
+  top: 70px;
+}
+.div10,
+.div11 {
+  top: 105px;
+}
+.div11 {
+  top: 140px;
+}
+.div12,
+.div13 {
+  position: absolute;
+  left: 140px;
+}
+.div12 {
+  top: 0;
+  color: var(--st2);
+}
+.div13 {
+  top: 35px;
+}
+.div14,
+.div15,
+.div16,
+.parent1 {
+  position: absolute;
+  top: 70px;
+  left: 140px;
+}
+.div15,
+.div16,
+.parent1 {
+  top: 105px;
+}
+.div16,
+.parent1 {
+  top: 140px;
+}
+.parent1 {
+  top: 324px;
+  left: 1203px;
+  width: 153px;
+  height: 166px;
+}
+.subscribeSectionChild {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 1257px;
+  height: 407px;
+  object-fit: contain;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 421px;
+  height: 68px;
+}
+.yourEmail {
+  position: absolute;
+  top: 25px;
+  left: 66px;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 6px;
+  left: 4px;
+  border-radius: var(--br-12xs);
+  width: 12px;
+  height: 4.5px;
+}
+.groupInner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--text-color1);
+  box-sizing: border-box;
+  width: 21px;
+  height: 18px;
+}
+.rectangleParent,
+.vectorParent {
+  position: absolute;
+  top: 25px;
+  left: 31px;
+  width: 21px;
+  height: 18px;
+}
+.rectangleParent {
+  top: 274px;
+  left: 339px;
+  width: 421px;
+  height: 68px;
+  font-size: var(--font-size-sm);
+  color: var(--text-color1);
+  font-family: var(--font-montserrat);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(180deg, #ff946d, #ff7d68);
+  width: 180px;
+  height: 68px;
+}
+.subscribe {
+  position: absolute;
+  top: 22px;
+  left: 50px;
+  font-weight: 600;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 274px;
+  left: 784px;
+  width: 180px;
+  height: 68px;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--white);
+  font-family: var(--font-open-sans);
+}
+.subscribeToGet {
+  margin: 0;
+}
+.subscribeToGetContainer {
+  position: absolute;
+  top: 92px;
+  left: 232px;
+  font-size: var(--font-size-14xl);
+  line-height: 54px;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--text-clr);
+  text-align: center;
+}
+.subscribeSectionItem {
+  position: absolute;
+  top: 0;
+  left: 1207px;
+  width: 70px;
+  height: 70px;
+}
+.subscribeSection {
+  position: absolute;
+  top: 3834px;
+  left: 48px;
+  width: 1356px;
+  height: 490px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--rd1);
+  font-family: var(--font-roboto);
+}

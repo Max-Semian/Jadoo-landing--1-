@@ -1,0 +1,9 @@
+.destinationChild {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  border-radius: var(--br-5xl);
+  width: 314px;
+  height: 457px;
+  object-fit: cover;
+}

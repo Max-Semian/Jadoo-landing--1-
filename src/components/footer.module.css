@@ -1,0 +1,199 @@
+.decoreIcon {
+  position: absolute;
+  top: 137px;
+  left: 1139px;
+  width: 478.9px;
+  height: 496.9px;
+  object-fit: contain;
+  opacity: 0.4;
+}
+.socialIcon,
+.socialIcon1,
+.socialIcon2 {
+  position: absolute;
+  top: 2px;
+  left: 136px;
+  width: 41px;
+  height: 41px;
+}
+.socialIcon1,
+.socialIcon2 {
+  top: 0;
+  left: 0;
+}
+.socialIcon2 {
+  left: 66px;
+  width: 45px;
+  height: 45px;
+}
+.discoverOurApp,
+.social {
+  position: absolute;
+  top: 0;
+  left: 2px;
+}
+.social {
+  width: 177px;
+  height: 45px;
+}
+.discoverOurApp {
+  letter-spacing: 0.01em;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.googlePlayIcon,
+.playStoreIcon {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  width: 107px;
+  height: 35px;
+}
+.playStoreIcon {
+  left: 114px;
+  width: 100px;
+}
+.discover,
+.outbound {
+  position: absolute;
+  top: 71px;
+  left: 0;
+  width: 214px;
+  height: 76px;
+}
+.outbound {
+  top: 21px;
+  left: 846px;
+  height: 147px;
+}
+.jadoo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.bookYourTrip {
+  margin: 0;
+}
+.bookYourTripContainer {
+  position: absolute;
+  top: 85px;
+  left: 0;
+  font-size: var(--font-size-smi);
+  line-height: 124.5%;
+  font-weight: 500;
+  color: var(--text-clr);
+}
+.company,
+.companyDesc {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.companyDesc {
+  width: 207px;
+  height: 133px;
+  font-size: var(--font-size-25xl);
+  color: var(--st);
+}
+.company {
+  font-size: var(--font-size-2xl);
+  line-height: 124.5%;
+  color: var(--black);
+}
+.about,
+.careers {
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.about {
+  position: absolute;
+  top: 60px;
+  left: 0;
+}
+.careers {
+  top: 94px;
+}
+.careers,
+.mobile,
+.navRow {
+  position: absolute;
+  left: 0;
+}
+.mobile {
+  top: 129px;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.navRow {
+  top: 0;
+  width: 108px;
+  height: 151px;
+}
+.contact,
+.helpfaq {
+  position: absolute;
+  line-height: 124.5%;
+}
+.contact {
+  top: 0;
+  left: 1px;
+  font-size: var(--font-size-2xl);
+  color: var(--black);
+}
+.helpfaq {
+  top: 58px;
+  left: 0;
+  font-weight: 500;
+}
+.navRow1 {
+  position: absolute;
+  top: 0;
+  left: 180px;
+  width: 89px;
+  height: 151px;
+}
+.airline,
+.lowFareTips {
+  position: absolute;
+  top: 96px;
+  left: 0;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.lowFareTips {
+  top: 131px;
+}
+.navColumns,
+.navRow2 {
+  position: absolute;
+  top: 0;
+  left: 360px;
+  width: 114px;
+  height: 153px;
+}
+.navColumns {
+  top: 21px;
+  left: 290px;
+  width: 474px;
+  font-size: var(--font-size-lg);
+}
+.copyrights {
+  position: absolute;
+  top: 258px;
+  left: 430px;
+  font-size: var(--font-size-sm);
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.footer {
+  position: absolute;
+  top: 4420px;
+  left: 186px;
+  width: 1617.9px;
+  height: 633.9px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--text-clr);
+  font-family: var(--font-poppins);
+}

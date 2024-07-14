@@ -1,0 +1,332 @@
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  left: 0;
+}
+.div {
+  top: 0;
+  color: var(--st2);
+}
+.div1,
+.div2 {
+  top: 35px;
+}
+.div2 {
+  top: 70px;
+}
+.div3,
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  top: 0;
+  left: 35px;
+}
+.div4,
+.div5,
+.div6 {
+  top: 35px;
+}
+.div5,
+.div6 {
+  top: 70px;
+}
+.div6 {
+  top: 105px;
+}
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 0;
+  left: 70px;
+}
+.div8,
+.div9 {
+  top: 35px;
+}
+.div9 {
+  top: 70px;
+  color: var(--nd);
+}
+.div10,
+.div11,
+.div12,
+.div13 {
+  position: absolute;
+  top: 105px;
+  left: 70px;
+}
+.div11,
+.div12,
+.div13 {
+  top: 140px;
+}
+.div12,
+.div13 {
+  top: 0;
+  left: 105px;
+}
+.div13 {
+  top: 35px;
+}
+.div14,
+.div15,
+.div16,
+.div17,
+.div18 {
+  position: absolute;
+  top: 70px;
+  left: 105px;
+}
+.div15,
+.div16,
+.div17,
+.div18 {
+  top: 105px;
+}
+.div16,
+.div17,
+.div18 {
+  top: 140px;
+}
+.div17,
+.div18 {
+  top: 0;
+  left: 140px;
+}
+.div18 {
+  top: 35px;
+}
+.div19,
+.div20,
+.div21,
+.parent1 {
+  position: absolute;
+  top: 70px;
+  left: 140px;
+}
+.div20,
+.div21,
+.parent1 {
+  top: 105px;
+}
+.div21,
+.parent1 {
+  top: 140px;
+}
+.parent1 {
+  top: 0;
+  left: 1075px;
+  width: 153px;
+  height: 166px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--rd1);
+  font-family: var(--font-roboto);
+}
+.category {
+  position: absolute;
+  top: 8px;
+  left: 498px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.weOfferBest {
+  position: absolute;
+  top: 45px;
+  left: 274px;
+  font-size: var(--font-size-31xl);
+  text-transform: capitalize;
+  font-family: var(--font-volkhov);
+  color: var(--rd);
+}
+.categoryActiveChild {
+  position: absolute;
+  top: 248.9px;
+  left: 0;
+  border-radius: var(--br-11xl) 0 var(--br-3xs) 0;
+  background-color: var(--color-salmon);
+  width: 100px;
+  height: 100px;
+}
+.categoryActiveItem {
+  position: absolute;
+  top: 1.9px;
+  left: 35px;
+  box-shadow: 0 100px 80px rgba(0, 0, 0, 0.02),
+    0 64.8px 46.85px rgba(0, 0, 0, 0.02), 0 38.5px 25.48px rgba(0, 0, 0, 0.01),
+    0 20px 13px rgba(0, 0, 0, 0.01), 0 8.1px 6.52px rgba(0, 0, 0, 0.01),
+    0 1.9px 3.15px transparent;
+  border-radius: var(--br-17xl);
+  background-color: var(--white);
+  width: 267px;
+  height: 314px;
+}
+.engrossedListeningPark {
+  position: absolute;
+  top: 192.9px;
+  left: 79px;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+  width: 181px;
+  height: 78px;
+}
+.bestFlights {
+  position: absolute;
+  top: 150.9px;
+  left: 109px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--text-heading-color);
+  text-align: left;
+}
+.categoryActive,
+.categoryActiveInner {
+  position: absolute;
+  top: 0;
+  left: 84.2px;
+  width: 166.9px;
+  height: 153.3px;
+}
+.categoryActive {
+  top: 176.1px;
+  left: 228px;
+  width: 302px;
+  height: 348.9px;
+}
+.builtWicketLonger,
+.categoryChild {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  width: 92px;
+  height: 78px;
+}
+.builtWicketLonger {
+  top: 149px;
+  left: 5px;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+  width: 181px;
+}
+.calculatedWeather {
+  position: absolute;
+  top: 107px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--text-heading-color);
+}
+.category1,
+.groupChild {
+  position: absolute;
+  top: 220px;
+  left: 0;
+  width: 190px;
+  height: 227px;
+}
+.groupChild {
+  top: 0;
+  left: 67px;
+  border-radius: var(--br-lg) var(--br-8xs) var(--br-3xs) var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  width: 50px;
+  height: 49px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.image25Icon {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-16xl);
+  width: 40px;
+  height: 69px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 66px;
+  width: 67px;
+  height: 75px;
+}
+.bartonVanityItself {
+  position: absolute;
+  top: 151px;
+  left: 0;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+  width: 181px;
+  height: 78px;
+}
+.localEvents {
+  position: absolute;
+  top: 109px;
+  left: 29px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--text-heading-color);
+}
+.category2,
+.categoryItem {
+  position: absolute;
+  top: 218px;
+  left: 609px;
+  width: 181px;
+  height: 229px;
+}
+.categoryItem {
+  top: 0;
+  left: 63px;
+  width: 77px;
+  height: 66px;
+}
+.weDeliverOutsourced {
+  margin: 0;
+}
+.weDeliverOutsourcedContainer {
+  position: absolute;
+  top: 138px;
+  left: 0;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+  width: 181px;
+  height: 78px;
+}
+.customization {
+  position: absolute;
+  top: 96px;
+  left: 20px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--text-heading-color);
+}
+.category3,
+.services {
+  position: absolute;
+  top: 231px;
+  left: 908px;
+  width: 181px;
+  height: 216px;
+}
+.services {
+  top: 966px;
+  left: 154px;
+  width: 1228px;
+  height: 525px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--text-clr);
+  font-family: var(--font-poppins);
+}

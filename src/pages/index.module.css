@@ -1,0 +1,52 @@
+.bookYourNext {
+  margin: 0;
+}
+.heading {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  text-transform: capitalize;
+}
+.imageChild {
+  position: absolute;
+  top: 0;
+  left: 60px;
+  width: 354px;
+  height: 367px;
+  opacity: 0.4;
+}
+.image {
+  position: absolute;
+  top: 19px;
+  left: 629px;
+  width: 485px;
+  height: 459px;
+}
+.subheading {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--text-clr);
+  text-align: center;
+}
+.bookATrip {
+  position: absolute;
+  top: 2417px;
+  left: 186px;
+  width: 1114px;
+  height: 492px;
+}
+.travelAgencyLandingPageUi {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  height: 4774px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--rd);
+  font-family: var(--font-volkhov);
+}

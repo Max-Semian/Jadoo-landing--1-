@@ -1,0 +1,178 @@
+.building1Icon,
+.optionsIcon {
+  position: absolute;
+  top: 283px;
+  left: 28px;
+  width: 139px;
+  height: 36px;
+}
+.building1Icon {
+  top: 348px;
+  left: 25px;
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+}
+.byRobbinJoseph,
+.june,
+.peopleGoing {
+  position: absolute;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.peopleGoing {
+  top: 349px;
+  left: 56px;
+  letter-spacing: -0.02em;
+}
+.byRobbinJoseph,
+.june {
+  top: 242px;
+  left: 25px;
+}
+.byRobbinJoseph {
+  left: 129px;
+}
+.groupChild,
+.tripToGreece {
+  position: absolute;
+  left: 25px;
+}
+.groupChild {
+  top: 20px;
+  border-radius: var(--br-5xl);
+  width: 321px;
+  height: 161px;
+  object-fit: cover;
+}
+.tripToGreece {
+  top: 207px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.02em;
+  line-height: 124.5%;
+  font-weight: 500;
+  color: var(--black);
+}
+.groupItem {
+  position: absolute;
+  top: 243px;
+  left: 116px;
+  background-color: var(--text-2);
+  border-right: 1px solid var(--text-2);
+  box-sizing: border-box;
+  width: 1px;
+  height: 17px;
+}
+.groupInner,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 400px;
+}
+.groupInner {
+  box-shadow: 0 100px 80px rgba(0, 0, 0, 0.02),
+    0 64.8px 46.85px rgba(0, 0, 0, 0.02), 0 38.5px 25.48px rgba(0, 0, 0, 0.01),
+    0 20px 13px rgba(0, 0, 0, 0.01), 0 8.1px 6.52px rgba(0, 0, 0, 0.01),
+    0 1.9px 3.15px transparent;
+  border-radius: var(--br-lg);
+  background-color: var(--white);
+  width: 263px;
+  height: 129px;
+}
+.tripToRome {
+  position: absolute;
+  top: 39px;
+  left: 81px;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.01em;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.completed1 {
+  color: var(--black);
+}
+.completed {
+  position: absolute;
+  top: 75px;
+  left: 80px;
+  letter-spacing: -0.05em;
+  line-height: 124.5%;
+  font-weight: 500;
+  color: var(--color1);
+}
+.ellipseDiv,
+.maskGroupIcon {
+  position: absolute;
+  top: 18px;
+  left: 20px;
+  width: 50px;
+  height: 50px;
+}
+.ellipseDiv {
+  box-shadow: 1px 9px 6px rgba(105, 104, 104, 0.13);
+  border-radius: 50%;
+  background-color: var(--white);
+  opacity: 0.3;
+}
+.maskGroupIcon {
+  object-fit: cover;
+}
+.ongoing {
+  position: absolute;
+  top: 16px;
+  left: 82px;
+  letter-spacing: -0.04em;
+  line-height: 124.5%;
+  font-weight: 500;
+  color: var(--text-2);
+}
+.groupChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--circle);
+  width: 156px;
+  height: 5px;
+}
+.groupChild1 {
+  background-color: var(--color1);
+  width: 73px;
+}
+.rectangleContainer,
+.rectangleGroup {
+  position: absolute;
+  top: 102px;
+  left: 82px;
+  width: 156px;
+  height: 5px;
+}
+.rectangleGroup {
+  top: 219px;
+  left: 222px;
+  width: 263px;
+  height: 129px;
+  font-size: var(--font-size-sm);
+  color: var(--black);
+}
+.heart61,
+.image {
+  position: absolute;
+  top: 349.7px;
+  left: 325px;
+  width: 20px;
+  height: 18.6px;
+}
+.image {
+  top: 59px;
+  left: 0;
+  width: 485px;
+  height: 400px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--text-2);
+  font-family: var(--font-poppins);
+}

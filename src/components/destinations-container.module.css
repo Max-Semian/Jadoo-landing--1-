@@ -1,0 +1,137 @@
+.card5Child,
+.decoreIcon {
+  position: absolute;
+  top: 318px;
+  left: 1006px;
+  width: 96px;
+  height: 252px;
+}
+.card5Child {
+  top: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-5xl) var(--br-5xl);
+  background-color: var(--white);
+  width: 315px;
+  height: 130px;
+}
+.fullEurope {
+  position: absolute;
+  top: 28px;
+  left: 20px;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.navigation1Icon {
+  position: absolute;
+  top: 68px;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.daysTrip,
+.k {
+  position: absolute;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.daysTrip {
+  top: 68px;
+  left: 51px;
+  font-size: var(--font-size-base);
+}
+.k {
+  top: 28px;
+  left: 250px;
+}
+.card5,
+.destination {
+  position: absolute;
+  top: 327px;
+  left: 0;
+  width: 315px;
+  height: 130px;
+}
+.destination {
+  top: 160px;
+  left: 725px;
+  height: 457px;
+}
+.romeItalty {
+  top: 27px;
+  left: 20px;
+}
+.daysTrip1,
+.k1,
+.romeItalty {
+  position: absolute;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.daysTrip1 {
+  top: 68px;
+  left: 54px;
+  font-size: var(--font-size-base);
+}
+.k1 {
+  top: 28px;
+  left: 230px;
+}
+.destination1 {
+  position: absolute;
+  top: 160px;
+  left: 0;
+  width: 315px;
+  height: 457px;
+}
+.daysTrip2,
+.k2 {
+  position: absolute;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.daysTrip2 {
+  top: 68px;
+  left: 55px;
+  font-size: var(--font-size-base);
+}
+.k2 {
+  top: 28px;
+  left: 240px;
+}
+.destination2 {
+  position: absolute;
+  top: 160px;
+  left: 350px;
+  width: 315px;
+  height: 457px;
+}
+.heading,
+.subheading {
+  position: absolute;
+  text-align: center;
+}
+.subheading {
+  top: 0;
+  left: 459px;
+  font-weight: 600;
+}
+.heading {
+  top: 35px;
+  left: 317px;
+  font-size: var(--font-size-31xl);
+  text-transform: capitalize;
+  font-family: var(--font-volkhov);
+  color: var(--rd);
+}
+.destinations {
+  position: absolute;
+  top: 1614px;
+  left: 173px;
+  width: 1102px;
+  height: 617px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--text-clr);
+  font-family: var(--font-poppins);
+}

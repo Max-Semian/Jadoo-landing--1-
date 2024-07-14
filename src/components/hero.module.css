@@ -1,0 +1,271 @@
+@keyframes shadow-inset-center {
+  0% {
+    box-shadow: inset 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: inset 0 0 14px 0 rgb(0 0 0/50%);
+  }
+}
+.decoreIcon,
+.logoIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1922.3px;
+  height: 872.6px;
+}
+.logoIcon {
+  top: 1.7px;
+  width: 114.9px;
+  height: 34px;
+}
+.navItem {
+  position: absolute;
+  top: 9px;
+  left: 722.1px;
+  font-weight: 500;
+}
+.navItem1,
+.navItem2,
+.navItem3,
+.navItem4,
+.signUp {
+  position: absolute;
+  top: 9px;
+  left: 607.1px;
+  font-weight: 500;
+}
+.navItem2,
+.navItem3,
+.navItem4,
+.signUp {
+  left: 492.1px;
+}
+.navItem3,
+.navItem4,
+.signUp {
+  left: 337.1px;
+}
+.navItem4,
+.signUp {
+  left: 882.1px;
+}
+.signUp {
+  left: 22px;
+}
+.buttonChild {
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--st1);
+  box-sizing: border-box;
+  width: 102px;
+  height: 40px;
+}
+.button,
+.buttonChild,
+.en {
+  position: absolute;
+  top: 0;
+}
+.button {
+  left: 978.1px;
+  width: 102px;
+  height: 40px;
+}
+.en {
+  left: 0;
+  font-weight: 500;
+}
+.dropdown,
+.dropdownChild {
+  position: absolute;
+  top: 8.5px;
+  left: 29.5px;
+  width: 9px;
+  height: 4.5px;
+}
+.dropdown {
+  top: 9px;
+  left: 1122.1px;
+  width: 38.5px;
+  height: 22px;
+}
+.ctaChild,
+.topNav {
+  position: absolute;
+  top: 196px;
+  left: 560.9px;
+  width: 1160.6px;
+  height: 40px;
+}
+.ctaChild {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--yellow);
+  top: 0;
+  left: 0;
+  box-shadow: 0 20px 35px rgba(241, 165, 1, 0.15);
+  border-radius: var(--br-3xs);
+  width: 170px;
+  height: 60px;
+}
+.ctaChild:hover,
+.playButton:hover {
+  animation: 1s ease 0s infinite normal none shadow-inset-center;
+  opacity: 1;
+}
+.findOutMore {
+  position: absolute;
+  top: 19px;
+  left: 27px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-google-sans);
+  color: var(--white);
+  text-align: center;
+}
+.cta1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 170px;
+  height: 60px;
+}
+.playDemo1 {
+  position: absolute;
+  top: 15px;
+  left: 73px;
+  font-size: var(--font-size-mid);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--text-color);
+  text-align: left;
+}
+.playButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 15px 30px rgba(223, 105, 81, 0.3);
+  border-radius: 50%;
+  background-color: var(--color-salmon);
+  width: 52px;
+  height: 52px;
+}
+.playButtonItem {
+  position: absolute;
+  top: 20px;
+  left: 19px;
+  width: 15px;
+  height: 15px;
+  object-fit: contain;
+}
+.playButton,
+.playDemo {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 52px;
+  height: 52px;
+}
+.playDemo {
+  top: 4px;
+  left: 214px;
+  width: 165px;
+}
+.cta {
+  top: 475px;
+  left: 0;
+  width: 379px;
+  height: 60px;
+}
+.cta,
+.desc1,
+.tagline {
+  position: absolute;
+}
+.tagline {
+  top: 0;
+  left: 2px;
+  text-transform: uppercase;
+}
+.desc1 {
+  top: 351px;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  font-weight: 500;
+  color: var(--text-clr);
+  display: inline-block;
+  width: 477px;
+}
+.decoreIcon1 {
+  position: absolute;
+  top: 123px;
+  left: 245px;
+  width: 385px;
+  height: 12px;
+}
+.travelEnjoy {
+  margin: 0;
+}
+.desc,
+.heading {
+  position: absolute;
+}
+.heading {
+  top: 54px;
+  left: 2px;
+  font-size: var(--font-size-65xl);
+  letter-spacing: -0.04em;
+  line-height: 89px;
+  font-family: var(--font-volkhov);
+  color: var(--st);
+}
+.desc {
+  top: 112px;
+  left: 0;
+  width: 630px;
+  height: 535px;
+}
+.hero,
+.heroContent,
+.imageIcon {
+  position: absolute;
+  top: 0;
+  left: 417px;
+  width: 783.9px;
+  height: 764px;
+}
+.hero,
+.heroContent {
+  top: 254px;
+  left: 568px;
+  width: 1200.9px;
+  font-size: var(--font-size-xl);
+  color: var(--color-salmon);
+  font-family: var(--font-poppins);
+}
+.hero {
+  top: -149px;
+  left: -420px;
+  width: 1922.3px;
+  height: 1018px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--st1);
+  font-family: var(--font-google-sans);
+}
+@media screen and (max-width: 420px) {
+  .ctaChild {
+    width: 100%;
+  }
+}
